@@ -1,5 +1,8 @@
 import psycpg2
 
+def get_connection_data():
+	
+
 class Database:
 	def __init__(self):
 		pass
